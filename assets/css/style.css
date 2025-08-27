@@ -26,7 +26,7 @@
 }
 
 .home-section {
-    background-image: url(/assets/images/restaurant-hero-01.jpg);
+    background-image: url(../images/restaurant-hero-01.jpg);
     background-repeat: no-repeat;
     background-size: cover;
 }
@@ -206,7 +206,7 @@
 }
 
 .opration-section {
-    background-image: url(/assets/images/restaurant-hero-03.jpg);
+    background-image: url(../images/restaurant-hero-03.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
@@ -306,7 +306,7 @@
 
 /* About Page start */
 .About-section {
-    background-image: url(/assets/images/restaurant-hero-03\ \(1\).jpg);
+    background-image: url(../images/restaurant-hero-03\ \(1\).jpg);
     background-repeat: no-repeat;
     background-size: cover;
 }
@@ -397,7 +397,7 @@
 /* Gallery Page strt  */
 
 .Gallery-section {
-    background-image: url(/assets/images/Desktop\ -\ 1\ \(3\)\ \(1\).jpg);
+    background-image: url(../images/Desktop\ -\ 1\ \(3\)\ \(1\).jpg);
     background-repeat: no-repeat;
     background-size: cover;
 
@@ -418,13 +418,13 @@
 
 /* team page start */
 .team-section {
-    background-image: url(/assets/images/restaurant-hero-06r.jpg);
+    background-image: url(../images/restaurant-hero-06r.jpg);
     background-repeat: no-repeat;
     background-size: cover;
 }
 
 .simply-section {
-    background-image: url(/assets/images/restaurant-hero-05.jpg);
+    background-image: url(../images/restaurant-hero-05.jpg);
     background-repeat: no-repeat;
     background-size: cover;
 }
@@ -516,7 +516,7 @@
 
 /* shop page start */
 .shop-section {
-    background-image: url(/assets/images/restaurant-hero-08.jpg);
+    background-image: url(../images/restaurant-hero-08.jpg);
     background-repeat: no-repeat;
     background-size: cover;
 }
@@ -525,7 +525,7 @@
 
 /* leanding page start */
 .leanding-section{
-    background-image: url(/assets//images/restaurant-hero-02.jpg);
+    background-image: url(../images/restaurant-hero-02.jpg);
     background-repeat: no-repeat;
     background-size: cover;
 }
